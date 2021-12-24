@@ -1,0 +1,38 @@
+li {
+  list-style: none;
+}
+body{
+  margin: 0 auto;
+  background-color: aqua;
+}
+.title{
+  text-align: center;
+}
+.profile{
+  height:700px;
+  width:900px;
+  background-color: blueviolet;
+  margin: 0 auto;
+  text-align: center;
+}
+.profile img{
+  width: 350px;
+  height: 350px; 
+}
+.hobbes{
+  height:700px;
+  margin: 0 auto;
+  width:1200px;
+}
+.hobby{
+  text-align: center;
+  background-color: mediumpurple;
+  margin-left: 10px;
+	margin-right: 10px;
+  float: left;
+  width:380px;
+}
+.hobby img{
+  width: 300px;
+  height: 300px;
+}
